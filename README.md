@@ -16,6 +16,8 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
 
 * FISHCODE modelling
 
+  * model code, documentation, validataion, and proxy data: https://doi.org/10.25937/dzcq-6c02
+
 * OSMOSE modelling
 
 * ISIS-Fish modelling
