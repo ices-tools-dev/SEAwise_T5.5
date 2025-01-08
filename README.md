@@ -9,8 +9,8 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
   * R scripts for conditioning are available at https://github.com/frabas/DISPLACE_input_gis_NorthSea 
 
 * ECOSPACE modelling
-  * see...
-  * see...
+  * see EwE documentation and download the latest compilation of the software at https://ecopath.org/
+  * see the Eastern Ionian sea Ecopath/Ecosim documentation and parameterization at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_the_effects_of_fishing_on_food_webs_and_community_diversity_aimed_at_populating_the_MSFD_Descriptor_4_and_based_on_food_web_and_end-to-end_modelling_/25158746?file=44448041 
    
 * BEMTOOL modelling
 
