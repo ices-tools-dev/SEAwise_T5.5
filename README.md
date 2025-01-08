@@ -6,7 +6,8 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
   * see open source code at https://github.com/frabas/DISPLACE_GUI
   * see documentation and download the latest compilation of the software at https://displace-project.org
   * see the NorthSea application used in SEAWise at https://github.com/frabas/DISPLACE_input_NorthSea
-  * R scripts for conditioning are available at https://github.com/frabas/DISPLACE_input_gis_NorthSea 
+  * R scripts for conditioning are available at https://github.com/frabas/DISPLACE_input_gis_NorthSea
+  * see the Eastern Ionian Sea application used in SEAWise at https://github.com/iridamaina/DISPLACE_input_IonianSea_SEAWISE
 
 * ECOSPACE modelling
   * see EwE documentation and download the latest compilation of the software at https://ecopath.org/
