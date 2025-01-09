@@ -20,5 +20,6 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
   * model code, documentation, validataion, and proxy data: https://doi.org/10.25937/dzcq-6c02
 
 * OSMOSE modelling
-
+  * Wageningen Marine Research: Model code and structure available on request at https://git.wur.nl/ecodyn/i-osmose - contact: karen.vandewolfshaar@wur.nl
+ 
 * ISIS-Fish modelling
