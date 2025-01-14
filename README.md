@@ -22,7 +22,7 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
   * Wageningen Marine Research: Model code and structure available on request at https://git.wur.nl/ecodyn/i-osmose - contact: karen.vandewolfshaar@wur.nl
  
 * ISIS-Fish modelling
- * See documentation on the ISIS-Fish fisheries dynamics model at https://isis-fish.org/ 
- * download the latest and archived compilation of the software at https://forge.codelutin.com/projects/isis-fish/files 
- * See the original ISIS-Fish database, including the biological and the fishing activity modules, the description of the fishing activity of the fisheries and the material to set it up and the key run of the fisheries dynamics model at https://www.seanoe.org/data/00915/102725/ 
+  * See documentation on the ISIS-Fish fisheries dynamics model at https://isis-fish.org/ 
+  * download the latest and archived compilation of the software at https://forge.codelutin.com/projects/isis-fish/files 
+  * See the original ISIS-Fish database, including the biological and the fishing activity modules, the description of the fishing activity of the fisheries and the material to set it up and the key run of the fisheries dynamics model at https://www.seanoe.org/data/00915/102725/ 
 
