@@ -1,6 +1,8 @@
 # SEAwise_T5.5
 SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on fish and fisheries - SEAwise project
 
+Reporting can be found at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_effects_of_spatial_management_measures_suggested_in_SEAwise_to_safeguard_species_habitats_and_choke_species_on_fisheries_selectivity_and_fuel_cost/28079429?file=51351986
+
 * DISPLACE modelling
 
   * See the open source code at https://github.com/frabas/DISPLACE_GUI
