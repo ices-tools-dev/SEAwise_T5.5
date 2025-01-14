@@ -3,11 +3,11 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
 
 * DISPLACE modelling
 
-  * see open source code at https://github.com/frabas/DISPLACE_GUI
-  * see documentation and download the latest compilation of the software at https://displace-project.org
-  * see the NorthSea application used in SEAWise at https://github.com/frabas/DISPLACE_input_NorthSea
+  * See the open source code at https://github.com/frabas/DISPLACE_GUI
+  * See the documentation and download the latest compilation of the software at https://displace-project.org
+  * See the NorthSea application used in SEAWise at https://github.com/frabas/DISPLACE_input_NorthSea
   * R scripts for conditioning are available at https://github.com/frabas/DISPLACE_input_gis_NorthSea
-  * see the Eastern Ionian Sea application used in SEAWise at https://github.com/iridamaina/DISPLACE_input_IonianSea_SEAWISE
+  * See the Eastern Ionian Sea application used in SEAWise at https://github.com/iridamaina/DISPLACE_input_IonianSea_SEAWISE
 
 * ECOSPACE modelling
   * see EwE documentation and download the latest compilation of the software at https://ecopath.org/
@@ -16,10 +16,13 @@ SEAwise WP 5, Task 5.5 - Predicting the effect of changes in 'fishable' areas on
 * BEMTOOL modelling
 
 * FISHCODE modelling
-
-  * model code, documentation, validataion, and proxy data: https://doi.org/10.25937/dzcq-6c02
+  * Model code, documentation, validation, and proxy data: https://doi.org/10.25937/dzcq-6c02
 
 * OSMOSE modelling
   * Wageningen Marine Research: Model code and structure available on request at https://git.wur.nl/ecodyn/i-osmose - contact: karen.vandewolfshaar@wur.nl
  
 * ISIS-Fish modelling
+ * See documentation on the ISIS-Fish fisheries dynamics model at https://isis-fish.org/ 
+ * download the latest and archived compilation of the software at https://forge.codelutin.com/projects/isis-fish/files 
+ * See the original ISIS-Fish database, including the biological and the fishing activity modules, the description of the fishing activity of the fisheries and the material to set it up and the key run of the fisheries dynamics model at https://www.seanoe.org/data/00915/102725/ 
+
