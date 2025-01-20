@@ -13,8 +13,9 @@ Reporting can be found at https://data.dtu.dk/articles/online_resource/SEAwise_r
 
 * ECOSPACE modelling
   * see EwE documentation and download the latest compilation of the software at https://ecopath.org/
-  * see the Eastern Ionian sea Ecopath/Ecosim documentation and parameterization at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_the_effects_of_fishing_on_food_webs_and_community_diversity_aimed_at_populating_the_MSFD_Descriptor_4_and_based_on_food_web_and_end-to-end_modelling_/25158746?file=44448041 
-   
+  * see the Eastern Ionian sea Ecopath/Ecosim documentation and parameterization at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_the_effects_of_fishing_on_food_webs_and_community_diversity_aimed_at_populating_the_MSFD_Descriptor_4_and_based_on_food_web_and_end-to-end_modelling_/25158746?file=44448041
+  * see the Adriatic and Western Ionian Ecopath/Ecosim/Ecospace documentation and parameterisation at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_predicting_effect_of_changes_in_fishable_areas_on_fish_and_fisheries/24331198?file=42754711
+
 * BEMTOOL modelling
 
 * FISHCODE modelling
