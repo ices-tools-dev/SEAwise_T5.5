@@ -17,6 +17,9 @@ Reporting can be found at https://data.dtu.dk/articles/online_resource/SEAwise_r
   * see the Adriatic and Western Ionian Ecopath/Ecosim/Ecospace documentation and parameterisation at https://data.dtu.dk/articles/online_resource/SEAwise_report_on_predicting_effect_of_changes_in_fishable_areas_on_fish_and_fisheries/24331198?file=42754711
 
 * BEMTOOL modelling
+  * see BEMTOOL (not spatial) bioeconomic model documentation, software and tutorial at: https://github.com/ices-tools-dev/SEAwise_ecoMSE/tree/main/BEMTOOL
+  * see BEMTOOL spatial model (communicating with not spatial BEMTOOL) available at: https://github.com/COISPA/SpatialBMT
+  * see the Adriatic and Western Ionian Spatial BEMTOOL parameterization in chapter 4.8 at: https://data.dtu.dk/articles/online_resource/SEAwise_report_on_effects_of_spatial_management_measures_suggested_in_SEAwise_to_safeguard_species_habitats_and_choke_species_on_fisheries_selectivity_and_fuel_cost/28079429?file=51351986   
 
 * FISHCODE modelling
   * Model code, documentation, validation, and proxy data: https://doi.org/10.25937/dzcq-6c02
